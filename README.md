@@ -1,5 +1,4 @@
 <p align="center"> 
     <img src="https://file.garden/aWE03JjPDTWM5GMO/tumblr_424251cdf913481d430e1e9f04579114_79ee56f6_640.webp"/>
-
-<p align="center"> 
-    making a rentry soon sign [ata](https://thecrennyceo.atabook.org/) 
+<h6 align="center">
+<a href="https://rentry.co/">rentry coming soon</a>    ✦.   <a href="https://thecrennyceo.atabook.org/">‎‎atabook</a>
