@@ -9,7 +9,7 @@
   <details align="center">
       <summary>freak @dogboyleon</summary>
           <h5 align="center">
-              <img src="https://file.garden/aWE03JjPDTWM5GMO/Screenshot%202026-06-22%20080054.png" width="300" height="auto" align="center">
+              <img src="https://file.garden/aWE03JjPDTWM5GMO/Screenshot%202026-06-22%20080054.png" align="center">
           </h5>
  </details>
 <br>
