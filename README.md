@@ -5,7 +5,7 @@
 <h6 align="center">
 <a href="https://rentry.co/luvserra">rentry</a>    ✦.   <a href="https://thecrennyceo.atabook.org/">‎‎atabook</a>
 
-<br>
+<br><br><br>
   <details align="center">
       <summary>freak @dogboyleon</summary>
           <h5 align="center">
